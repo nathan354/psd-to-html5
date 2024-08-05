@@ -278,7 +278,7 @@ h2{
 /* NOSE SECTION */
 
 #nose{
-    background: url('psd-to-html5/nose-bg.png');
+    background: url('/psd-to-html5/nose-bg.png');
     background-size: cover;
     background-position: center;
 }
