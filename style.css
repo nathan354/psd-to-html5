@@ -131,7 +131,7 @@ body{
 }
 
 #hero{
-    background-image: linear-gradient(rgba(218,51,46,0.6), rgba(218,51,46,0.6)), url('nathan354.github.io/psd-to-html5/hero-bg.png');
+    background-image: linear-gradient(rgba(218,51,46,0.6), rgba(218,51,46,0.6)), url('psd-to-html5/hero-bg.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -278,7 +278,7 @@ h2{
 /* NOSE SECTION */
 
 #nose{
-    background: url('../img/nose-bg.png');
+    background: url('psd-to-html5/nose-bg.png');
     background-size: cover;
     background-position: center;
 }
