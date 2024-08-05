@@ -131,7 +131,7 @@ body{
 }
 
 #hero{
-    background-image: linear-gradient(rgba(218,51,46,0.6), rgba(218,51,46,0.6)), url('psd-to-html5/hero-bg.png');
+    background-image: linear-gradient(rgba(218,51,46,0.6), rgba(218,51,46,0.6)), url('/psd-to-html5/hero-bg.png');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
